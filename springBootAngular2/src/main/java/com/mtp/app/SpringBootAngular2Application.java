@@ -1,4 +1,4 @@
-package com.mtp.springBootAngular2;
+package com.mtp.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
